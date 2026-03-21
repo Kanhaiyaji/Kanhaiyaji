@@ -16,11 +16,11 @@
 
 ## 🎮 About Me
 
-- 🎓 **B.Tech Student** (Education in progress)
+- 🎓 **B.Tech Student** 
 - 🚀 **Passionate** about AI, Software Development & Building Cool Systems
 - 🎯 **Currently learning** Full Stack + AI Engineering
 - 🏆 **Building** ODDSOCEAN → An e-Sports organization for passionate underdogs
-- 🏅 **National Level Kabaddi Player** → Sports excellence by day, Code by night!
+- 🏅 **National Level Kabaddi Player**
 - 📍 **Location** India
 
 ---
