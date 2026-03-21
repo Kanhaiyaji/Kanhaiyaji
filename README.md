@@ -113,7 +113,7 @@ Building an e-Sports organization dedicated to passionate underdogs with a focus
 ---
 
 <div align="center">
-  <strong>Let's build something amazing together! 🚀</strong>
+  <strong>Let's build something amazing together! 💛</strong>
   <br>
   <em>Always open to collaborations and exciting projects</em>
 </div>
