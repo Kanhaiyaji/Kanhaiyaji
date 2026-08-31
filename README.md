@@ -1,6 +1,9 @@
 # Hi folks 👋, I'm Kanhaiya Kumar Jha
 
 <div align="center">
+  <a href="https://www.instagram.com/jhaji_kanhaiya">
+   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   <a href="https://www.linkedin.com/in/kanhaiyakumarjha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
