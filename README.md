@@ -1,4 +1,4 @@
-# Hi folks 👋, I'm Kanhaiya Kumar Jha
+# Hi Everyone 👋, I'm Kanhaiya Kumar Jha, Not simple but sober
 
 <div align="center">
   <a href="https://www.instagram.com/jhaji_kanhaiya">
