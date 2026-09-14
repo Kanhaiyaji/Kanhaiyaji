@@ -1,6 +1,6 @@
 # Hi Everyone 👋, I'm Kanhaiya Kumar Jha
 
-> **Not simple, but sober.** 🚀
+> **Not simple, but sober.** 
 > B.Tech Student • Software Developer • AI Enthusiast • E-Sports Builder • National-Level Kabaddi Player
 
 <div align="center">
