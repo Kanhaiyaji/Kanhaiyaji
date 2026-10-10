@@ -5,7 +5,7 @@
 
 <!-- Typing Animation Subtitle -->
 <a href="https://github.com/Kanhaiyaji">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Python+%7C+Java+%7C+HTML+%7C+React+is+Love+%E2%9D%A4%EF%B8%8F;B.Tech+Student+%40+Marwadi+University+%F0%9F%8E%93;Founder+%26+Builder+%40+ODDSOCEAN+%F0%9F%8E%AE%F0%9F%8C%8A;National-Level+Kabaddi+Player+%F0%9F%A4%BC%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+AI%2C+Web+%26+Open+Source+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Python+is+Love+%7C+Java+%7C+HTML+%7C+React+%E2%9D%A4%EF%B8%8F;B.Tech+Student+%40+Marwadi+University+%F0%9F%8E%93;Founder+%26+Builder+%40+ODDSOCEAN+%F0%9F%8E%AE%F0%9F%8C%8A;National-Level+Kabaddi+Player+%F0%9F%A4%BC%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+AI%2C+Web+%26+Open+Source+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
