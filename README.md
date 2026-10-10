@@ -12,9 +12,11 @@
   <em>"Not simple, but sober."</em>
 </p>
 
-<!-- Profile Views & Social Badges -->
+<!-- Social & Coding Profiles -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanhaiyaji&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://leetcode.com/u/kanhaiya_kumar_jha/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
   <a href="https://linkedin.com/in/kanhaiyakumarjha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -242,6 +244,10 @@ Data Structures & Algorithms ██████████████░░░
 
 <a href="https://github.com/Kanhaiyaji">
   <img src="https://img.shields.io/badge/GitHub-Kanhaiyaji-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/kanhaiya_kumar_jha/">
+  <img src="https://img.shields.io/badge/LeetCode-kanhaiya__kumar__jha-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kanhaiyakumarjha/">
