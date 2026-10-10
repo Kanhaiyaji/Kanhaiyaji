@@ -118,7 +118,7 @@ I am the builder behind **ODDSOCEAN**, an emerging esports and gaming entertainm
 | 🎯 Pillar | 📝 Description |
 | :--- | :--- |
 | **🎮 Competitive Gaming** | Scouting talent and organizing grassroots to competitive tournaments |
-| **⚙️ Tournament Tech** | Building tools like [OCN Esports Point Calc](https://github.com/Kanhaiyaji/OCN-ESPORTS-POINT-CALC) for live match scoring |
+| **⚙️ Tournament Tech** | Building tools like [RED ANTS ](https://redants-pt.vercel.app/) for live match scoring |
 | **📈 Player Development** | Mentoring underdogs, analyzing stats, and guiding esports career pathways |
 | **🎥 Creator Incubation** | Empowering streamers, video creators, and community leaders |
 | **🤝 Community Building** | Fostering a supportive, non-toxic gaming ecosystem |
