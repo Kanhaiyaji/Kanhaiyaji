@@ -271,7 +271,7 @@ Data Structures & Algorithms ██████████████░░░
 ### 💛 Let's Build Something Impactful Together!
 **Open to open-source contributions, engineering collaborations, esports partnerships, and software roles.**
 
-⭐ *If you appreciate my work or find any project helpful, feel free to drop a star!* ⭐
+⭐ *If you appreciate my work or find any project helpful, feel free to drop a star for sure!* ⭐
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer" width="100%"/>
