@@ -5,7 +5,7 @@
 
 <!-- Typing Animation Subtitle -->
 <a href="https://github.com/Kanhaiyaji">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Python+is+Love+%7C+Java+%7C+HTML+%7C+React+%E2%9D%A4%EF%B8%8F;B.Tech+Student+%40+Marwadi+University+%F0%9F%8E%93;Founder+%26+Builder+%40+ODDSOCEAN+%F0%9F%8E%AE%F0%9F%8C%8A;National-Level+Kabaddi+Player+%F0%9F%A4%BC%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+AI%2C+Web+%26+Open+Source+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=680&lines=Python+is+Love+%7C+Java+%7C+HTML+%7C+React+%E2%9D%A4%EF%B8%8F;B.Tech+Student+%40+Marwadi+University+%F0%9F%8E%93;Founder+%26+Builder+%40+ODDSOCEAN+%F0%9F%8E%AE%F0%9F%8C%8A;Full+Stack+%26+ASP.NET+Developer+%F0%9F%92%BB;National-Level+Kabaddi+Player+%F0%9F%A4%BC%E2%80%8D%E2%99%82%EF%B8%8F;Passionate+about+AI%2C+Web+%26+Open+Source+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -14,6 +14,9 @@
 
 <!-- Social & Coding Profiles -->
 <p align="center">
+  <a href="https://kanhaiyaji.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kanhaiyaji.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://leetcode.com/u/kanhaiya_kumar_jha/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
@@ -41,18 +44,20 @@
 Name: Kanhaiya Kumar Jha
 Education: B.Tech in Computer Science & Engineering @ Marwadi University
 Location: India 🇮🇳
+Portfolio: https://kanhaiyaji.vercel.app/
 Current Role: Founder & Builder @ ODDSOCEAN (Esports Organization)
 Athletics: National-level Kabaddi Player 🤼‍♂️
-Interests: Full-Stack Development, AI Engineering, Automation, Open Source & Esports
+Interests: Full-Stack Web Development, ASP.NET, AI Engineering, Automation & Open Source
 Motto: Turning ambitious ideas into impactful products
 ```
 
 - 🎓 **Undergrad Engineer:** Pursuing B.Tech at **Marwadi University**, constantly mastering computer science fundamentals and modern development practices.
-- 🚀 **Software & Web Developer:** Crafting intuitive, scalable applications with clean architecture and modern user experiences.
+- 🚀 **Software & Web Developer:** Crafting responsive, scalable web applications with clean architecture and modern user experiences.
+- 🌐 **Live Portfolio:** Explore my journey, featured builds, and projects at **[kanhaiyaji.vercel.app](https://kanhaiyaji.vercel.app/)**.
 - 🌊 **Esports Entrepreneur:** Building **ODDSOCEAN**, empowering underdogs, creators, and competitive gamers with opportunities and tech tools.
-- 🤖 **AI & Automation Explorer:** Diving deep into AI engineering, intelligent agents, and automating day-to-day developer workflows.
+- 🤖 **AI & Automation Explorer:** Diving deep into AI engineering, intelligent agents, and automating video creation and developer workflows.
 - 🏅 **Athlete Mindset:** National-level **Kabaddi** player bringing discipline, agility, and team grit into engineering.
-- 🚧 **Open Source:** Actively contributing and exploring open-source communities.
+- 🚧 **Open Source:** Actively contributing to and exploring open-source communities.
 
 ---
 
@@ -79,8 +84,9 @@ Motto: Turning ambitious ideas into impactful products
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### ⚙️ Backend, Databases & APIs
+### ⚙️ Backend, Frameworks & Databases
 <p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -88,20 +94,23 @@ Motto: Turning ambitious ideas into impactful products
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
-### 🤖 AI, Data & Libraries
+### 🤖 AI, Automation & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-### 🧰 Developer Tools & Environment
+### 🧰 Developer Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
@@ -120,7 +129,7 @@ I am the builder behind **ODDSOCEAN**, an emerging esports and gaming entertainm
 | 🎯 Pillar | 📝 Description |
 | :--- | :--- |
 | **🎮 Competitive Gaming** | Scouting talent and organizing grassroots to competitive tournaments |
-| **⚙️ Tournament Tech** | Building tools like [RED ANTS ](https://redants-pt.vercel.app/) for live match scoring |
+| **⚙️ Tournament Tech** | Building tools like [RED ANTS Live Scorer](https://redants-pt.vercel.app/) and [OCN Ultra Calc](https://github.com/Kanhaiyaji/OCN-ESPORTS-POINT-CALC) |
 | **📈 Player Development** | Mentoring underdogs, analyzing stats, and guiding esports career pathways |
 | **🎥 Creator Incubation** | Empowering streamers, video creators, and community leaders |
 | **🤝 Community Building** | Fostering a supportive, non-toxic gaming ecosystem |
@@ -132,12 +141,57 @@ I am the builder behind **ODDSOCEAN**, an emerging esports and gaming entertainm
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Kanhaiyaji/OCN-ESPORTS-POINT-CALC">OCN Esports Ultra Calc</a></h3>
-      <p>High-performance, professional-grade points & leaderboard calculator designed for esports tournaments and live match ranking automation.</p>
+      <h3>💳 <a href="https://github.com/Kanhaiyaji/EsCrow-Pay">EsCrow-Pay</a></h3>
+      <p>A secure web-based escrow transaction platform engineered with buyer & seller validation workflows for digital exchanges.</p>
       <p>
-        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20HTML%20%7C%20CSS-blue?style=flat-square" alt="Tech" />
+        <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20Web%20%7C%20Escrow-blue?style=flat-square" alt="Tech" />
+        <a href="https://escrow-pay.onrender.com/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/Kanhaiyaji/Automate-Yt">Automate-Yt</a></h3>
+      <p>Automated video processing pipeline that extracts and formats high-quality YouTube Shorts directly from uploaded videos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Video%20Processing%20%7C%20Automation-FF0000?style=flat-square" alt="Tech" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Kanhaiyaji/Placement-Dashboard">Placement Dashboard</a></h3>
+      <p>A comprehensive placement management dashboard built in ASP.NET to monitor student drives, statistics, and recruiter updates.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-ASP.NET%20%7C%20C%23%20%7C%20Web-purple?style=flat-square" alt="Tech" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/Kanhaiyaji/OCN-ESPORTS-POINT-CALC">RED ANTS / OCN Esports Calc</a></h3>
+      <p>High-performance points & leaderboard calculator designed for competitive tournaments with dynamic rule engines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Esports%20Tech-blue?style=flat-square" alt="Tech" />
+        <a href="https://redants-pt.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/Kanhaiyaji/JIGRI">JIGRI Online Compiler</a></h3>
+      <p>Fast, lightweight browser-based multi-language code compiler and interactive execution playground.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20Compiler-teal?style=flat-square" alt="Tech" />
+        <a href="https://jigri-nine.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 <a href="https://github.com/Kanhaiyaji/skribbl-clone">Skribbl Clone</a></h3>
+      <p>Real-time multiplayer drawing and word-guessing web application inspired by Skribbl.io.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Canvas%20%7C%20Sockets-orange?style=flat-square" alt="Tech" />
+        <a href="https://skribbl-clone-3hu4.onrender.com"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square" alt="Live Demo" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Kanhaiyaji/sentinel-android">Sentinel Android</a></h3>
       <p>On-device real-time phishing and scam detection application for mobile security, engineered with Team PhishShield.</p>
@@ -145,66 +199,28 @@ I am the builder behind **ODDSOCEAN**, an emerging esports and gaming entertainm
         <img src="https://img.shields.io/badge/Tech-Android%20%7C%20Security%20%7C%20Java-green?style=flat-square" alt="Tech" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📚 <a href="https://github.com/Kanhaiyaji/SchoolManagementSystem">School Management System</a></h3>
-      <p>Comprehensive Python Tkinter project with role-based dashboards for Admins, Teachers, and Students, featuring attendance logs, photo management, homework uploads, and PDF export.</p>
+      <p>Python Tkinter project with role-based dashboards for Admins, Teachers, and Students with homework & PDF tools.</p>
       <p>
         <img src="https://img.shields.io/badge/Tech-Python%20%7C%20Tkinter%20%7C%20GUI-yellow?style=flat-square" alt="Tech" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🇯🇵 <a href="https://github.com/Kanhaiyaji/kana-dojo">Kana Dojo</a></h3>
-      <p>Aesthetic, minimalist platform for mastering Japanese Kana (Hiragana & Katakana) inspired by Duolingo and Monkeytype.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-TypeScript%20%7C%20React%20%7C%20Tailwind-purple?style=flat-square" alt="Tech" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Kanhaiyaji/AI-DOUBT-SOLVER">AI Doubt Solver / SolveMate AI</a></h3>
-      <p>Intelligent Q&A and doubt-resolution platform helping students break down tricky academic concepts into digestible explanations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-AI%20%7C%20JavaScript%20%7C%20APIs-red?style=flat-square" alt="Tech" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/Kanhaiyaji/JIGRI">JIGRI Online Compiler</a></h3>
-      <p>Fast, lightweight browser-based multi-language code compiler and execution playground.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Web%20%7C%20Compiler-teal?style=flat-square" alt="Tech" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/Kanhaiyaji/skribbl-clone">Skribbl Clone</a></h3>
-      <p>Real-time multiplayer drawing and word-guessing web application inspired by Skribbl.io.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20Canvas%20%7C%20Sockets-orange?style=flat-square" alt="Tech" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 <a href="https://github.com/Kanhaiyaji/leaderboard-friendly">GitHub Commit Leaderboard</a></h3>
-      <p>Fun and friendly competitive tool that compares commit frequencies, consistency, and GitHub activity between friends.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech-JavaScript%20%7C%20GitHub%20API-informational?style=flat-square" alt="Tech" />
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🔍 View More Projects</b></summary>
+  <summary><b>🔍 View More Projects & Repositories</b></summary>
   <br>
 
-  - 🌐 **[Personal Portfolio](https://github.com/Kanhaiyaji/Portfolio)** — Responsive portfolio site highlighting personal projects and credentials.
-  - 📧 **[Feedback Form & Auto-Mailer](https://github.com/Kanhaiyaji/Feedback-form-response-mail)** — Automated user feedback collection system with instant email responses.
-  - 🧮 **[Web Calculator](https://github.com/Kanhaiyaji/Calculator)** — Clean, responsive web calculator with intuitive UI.
-  - ✅ **[Full Stack To-Do](https://github.com/Kanhaiyaji/Full_stack_todo)** / **[To-do](https://github.com/Kanhaiyaji/To-do)** — Task management and productivity tracking application.
-  - 💼 **[Employee Salary Management System](https://github.com/Kanhaiyaji/EmployeeSalaryManagementSystem)** — Automated payroll and employee record management.
+  - 🌐 **[Personal Portfolio](https://kanhaiyaji.vercel.app/)** — Modern live portfolio showcasing technical background and creations.
+  - 🇯🇵 **[Kana Dojo](https://github.com/Kanhaiyaji/kana-dojo)** — Minimalist Japanese Hiragana & Katakana mastery platform.
+  - 🏆 **[GitHub Commit Leaderboard](https://github.com/Kanhaiyaji/leaderboard-friendly)** — [Live Demo](https://leaderboard-friendly.onrender.com) | Competitive commit tracker between friends.
+  - 🤖 **[AI Doubt Solver / SolveMate AI](https://github.com/Kanhaiyaji/AI-DOUBT-SOLVER)** — Academic doubt-resolution Q&A application.
+  - 📦 **[Product Catalog](https://github.com/Kanhaiyaji/Product-Catalog)** & **[Inventory Management](https://github.com/Kanhaiyaji/Inventory-Management-Module)** — Enterprise C# modules.
+  - 📧 **[Feedback Form & Auto-Mailer](https://github.com/Kanhaiyaji/Feedback-form-response-mail)** — [Live Demo](https://kanhaiyaji.github.io/Feedback-form-response-mail/) | User response collector with email automation.
+  - ✅ **[Full Stack To-Do](https://github.com/Kanhaiyaji/Full_stack_todo)** — [Live Demo](https://kanhaiyaji.github.io/Full_stack_todo/) | Productivity task manager.
+  - 💼 **[Employee Salary Management System](https://github.com/Kanhaiyaji/EmployeeSalaryManagementSystem)** — Automated payroll and record keeper in C#.
   - 🩸 **[Blood Bank Management System](https://github.com/Kanhaiyaji/bldbank)** — Donor tracking and inventory management in Python.
 
 </details>
@@ -231,7 +247,7 @@ I am the builder behind **ODDSOCEAN**, an emerging esports and gaming entertainm
 ```text
 Full-Stack Web Development  ████████████████░░░░  80%
 AI & Automation Projects     ███████████████░░░░░  75%
-Software Architecture        ████████████████░░░░  80%
+Software Architecture (.NET) ████████████████░░░░  80%
 Esports Tech (ODDSOCEAN)     █████████████████░░░  85%
 Data Structures & Algorithms ██████████████░░░░░░  70%
 ```
@@ -242,6 +258,10 @@ Data Structures & Algorithms ██████████████░░░
 
 <div align="center">
 
+<a href="https://kanhaiyaji.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-kanhaiyaji.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
 <a href="https://github.com/Kanhaiyaji">
   <img src="https://img.shields.io/badge/GitHub-Kanhaiyaji-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
