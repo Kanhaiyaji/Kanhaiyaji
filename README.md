@@ -47,7 +47,7 @@ Location: India 🇮🇳
 Portfolio: https://kanhaiyaji.vercel.app/
 Current Role: Founder & Builder @ ODDSOCEAN (Esports Organization)
 Athletics: National-level Kabaddi Player 🤼‍♂️
-Interests: Full-Stack Web Development, ASP.NET, AI Engineering, Automation & Open Source
+Interests: Full-Stack Web Development, ASP.NET, ML, AI Engineering, Automation & Open Source
 Motto: Turning ambitious ideas into impactful products
 ```
 
